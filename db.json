@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Virat Kohli",
+      "photo": "https://i.pinimg.com/736x/62/a3/f3/62a3f3ed6c992708cd04be27ce8b953f.jpg",
+      "phone": "9086745673",
+      "email": "viratkohli@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Mohan Lal",
+      "photo": "https://filmfare.wwmindia.com/thumb/content/2020/may/mohanlal41590057124.jpg?width=1200&height=900",
+      "phone": "35346547658568",
+      "email": "mohan@gmail.com",
+      "id": 5
+    }
+  ]
+}
